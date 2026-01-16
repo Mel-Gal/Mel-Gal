@@ -23,9 +23,11 @@
         <img src="https://cdn.simpleicons.org/ollama/000000" width="40" />
         <img width="40" height="40" alt="Global Partners (5)" src="https://github.com/user-attachments/assets/6c9795ad-11a8-4e83-93e5-fbbb296238bf" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+        <img width="40" height="40" alt="Global Partners (6)" src="https://github.com/user-attachments/assets/27c2e34f-bef4-43cc-9e30-f9a25c3f3b87" />
     </td>
   </tr>
 </table>
+
 
 
 
